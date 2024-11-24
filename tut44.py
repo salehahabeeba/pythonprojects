@@ -31,7 +31,7 @@ class Library:
         else:
             print("Please enter valid input")
 
-saleha= Library(['Hindi','Telugu','English','Maths','Science','Social'],"Saleha_Library")
+saleha= Library(['Hindi','Telugu','English','Maths','Science','Social','new subject'],"Saleha_Library")
 
 if __name__ == '__main__':
  while True:
