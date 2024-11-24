@@ -1,4 +1,4 @@
-#EXERISE - SNAKE,WATER AND GUN
+#Project- SNAKE,WATER AND GUN
 import random
 from sys import orig_argv
 print("The rules of the game are-\n1.If you choose snake and I choose water then snake will drink the water and you win"

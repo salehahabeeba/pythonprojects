@@ -1,4 +1,4 @@
-#exercise- FAULTY CALCULATOR
+#Project- FAULTY CALCULATOR
 #design a calculator which will solve all the problems except
 #45*3=555, 56+9=77, 56/6=4
 a=int(input("enter the first number\n"))

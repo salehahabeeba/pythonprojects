@@ -1,4 +1,4 @@
-#exercise GUESS THE NUMBER
+#Project- GUESS THE NUMBER
 n=17
 i=1
 print("you have only 5 guesses to guess the correct number")
